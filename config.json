@@ -1,0 +1,8 @@
+﻿{
+  "groupId":"com.davidherron.pv-inverters-modules",
+  "artifactId":"pv-inverters-modules",
+  "artifactVersion":"0.1.0",
+  "library":"spring-mvc",
+  "apiPackage": "com.davidherron.pv-inverters-modules.api",
+  "modelPackage": "com.davidherron.pv-inverters-modules.model"
+}
